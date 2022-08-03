@@ -1,21 +1,7 @@
 # Adobe Sign C# SDK
+**NOTE**: This SDK is deprecated. Please refer to https://opensource.adobe.com/acrobat-sign/sdks/. 
 
-# Table of contents
-  - [Overview](#overview)
-  - [Frameworks supported](#frameworks-supported)  
-  - [Third Party Dependencies](#third-party-dependencies)  
-  - [Installation](#installation)  
-  - [Packaging](#packaging)
-  - [Getting Started](#getting-started)  
-  - [API Endpoints](#documentation-for-api-endpoints)
-  - [Models](#documentation-for-models)
-  - [Notes](#notes)  
-  - [Contributing](#contributing)
-  - [Licensing](#licensing)
-  - [Report Issues/Bugs](#report-issuesbugs)    
-
-
-# OverView
+# Overview
 
 Adobe Sign SDK aims at providing an easy way to integrate the Adobe Sign RESTful web service into client applications through easy to consume client side objects wrapping the REST API functionality. This repository contains Adobe Sign’s SDK (CSharp) and samples for these APIs.
 
