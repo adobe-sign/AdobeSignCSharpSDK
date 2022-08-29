@@ -460,7 +460,13 @@ namespace IO.Swagger.model.agreements
             /// Enum WRITTENSIGNED for value: WRITTEN_SIGNED
             /// </summary>
             [EnumMember(Value = "WRITTEN_SIGNED")]
-            WRITTENSIGNED = 54
+            WRITTENSIGNED = 54,
+
+            /// <summary>
+            /// Enum URLREAUTHENTICATIONREQUESTED for value: URL_REAUTHENTICATION_REQUESTED
+            /// </summary>
+            [EnumMember(Value = "URL_REAUTHENTICATION_REQUESTED")]
+            URLREAUTHENTICATIONREQUESTED = 55
         }
 
         /// <summary>
